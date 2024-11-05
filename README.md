@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Arthur Marques! 👋
 
-<!--
-**arthurmarques2008/arthurmarques2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Sobre Mim
+Sou aluno do curso técnico em informática integrado no IFCE. Estou iniciando minha jornada no GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos Acadêmicos
+- **[Projeto 1](https://github.com/arthurmarques2008/CTI-P7-POO-20242-LISTA01)**: Projeto de Programação Orientada a Objetos usando a Linguagem de Programação **JAVA**.
+- **[Projeto 2](https://github.com/arthurmarques2008/Atividades-WEB-I-HTML)**: Projeto de Desenvolvimento WEB I usando a Linguagem de Marcação **HTML**.
+
+---
+
+### 🛠️ Tecnologias que Estou Aprendendo
+- Java 
+- Python
+
+---
+
+### 📫 Entre em Contato
+- 📧 Email: [Arthur.Marques@aluno.ifce.edu.br](mailto:Arthur.Marques@aluno.ifce.edu.br)
