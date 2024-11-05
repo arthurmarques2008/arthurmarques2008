@@ -12,7 +12,7 @@ Sou aluno do curso técnico em informática integrado no IFCE. Estou iniciando m
 ---
 
 ### 🛠️ Tecnologias que Estou Aprendendo
-- Java <img src="">
+- Java 
 - Python
 
 ---
